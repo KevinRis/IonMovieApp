@@ -1,0 +1,7 @@
+{
+  "name": "IonMovieApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
